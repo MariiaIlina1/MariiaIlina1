@@ -14,3 +14,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+- 🔭 I’m currently working on getting my degree in Informatics.
+- 🌱 I’m currently learning how to analize data and speak to the computer.
+- 💬 Ask me about how it feels to be an international student from overseas.
+- 📫 How to reach me: reach me by email milina@g.emporia.edu
+- 😄 Pronouns: she/her/hers
+- ⚡ Fun fact: I speak 3 languages.
